@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "./built",
+        "noImplicitReturns": true,
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true
+    },
+    "include": ["./src/*.ts"]
+}
